@@ -1,0 +1,1 @@
+{"sex": {"Female": 0, "Male": 1}, "smoker": {"No": 0, "Yes": 1}, "day": {"Thur": 0, "Fri": 1, "Sat": 2, "Sun": 3}, "time": {"Lunch": 0, "Dinner": 1}, "column": ["total_bill", "sex", "smoker", "day", "time", "size"]}
